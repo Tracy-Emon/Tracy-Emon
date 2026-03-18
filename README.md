@@ -11,7 +11,7 @@
 
 <div align="left">
 
-  <!-- Data Engineering -->
+  <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30"/>
@@ -31,16 +31,18 @@
 
   <br><br>
 
-  <!-- Data Warehousing -->
+  <!-- Data Stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/>
 
   <br><br>
 
-  <!-- Tools -->
+  <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30"/>
@@ -54,13 +56,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/kumail-haider-8979b2276/" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:hkumail245@gmail.com" target="_blank">
+  <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/haiderkumail" target="_blank">
+  <a href="https://github.com/your-username" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -68,8 +70,8 @@
 ###
 
 <p align="left">
-🚀 8+ years building scalable data pipelines and cloud data platforms<br>
-⚡ Expertise in PySpark, Spark, Kafka, Airflow, dbt<br>
-☁️ AWS, Azure, GCP across lakehouse and warehouse architectures<br>
-📊 Strong focus on performance optimization, real-time streaming, and cost reduction<br>
+🚀 8+ years designing and optimizing large-scale data pipelines and lakehouse architectures<br>
+⚡ Strong in PySpark, Spark, Kafka, Airflow, dbt, Snowflake, Databricks<br>
+☁️ AWS, Azure, GCP with focus on scalable and cost-efficient data platforms<br>
+📊 Built real-time streaming systems, reduced latency and improved pipeline performance significantly<br>
 </p>
